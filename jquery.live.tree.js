@@ -57,7 +57,7 @@ jQuery.liveTree = function(){
   //event id generator
   function clicked(ths,cls){ 
     var li  = $(ths).parent();
-    var grp = ''+li.attr('all');
+    var grp = ''+li.attr('grp');
     var clk = ths.id=='' ? [cls,'tree']:
                            ['id:'+ths.id,cls,'tree'];
     if( grp!='undefined')

@@ -1,0 +1,15 @@
+
+jquery.live.tree 1.0.0 - jQuery plugin to hide and show branches of a tree
+
+http://wharsojo.wordpress.com/jquery-plugin-live-tree/
+http://docs.jquery.com/Plugins/liveTree
+
+Copyright (c) 2009 
+  Widi Harsojo (http://wharsojo.wordpress.com)
+
+Dual licensed under the GPL (http://www.gnu.org/licenses/gpl.html)
+and MIT (http://www.opensource.org/licenses/mit-license.php) licenses.
+
+$Date: 2009-01-23 $
+
+NOTE: css based on Jörn Zaefferer jquery.treeview.js
